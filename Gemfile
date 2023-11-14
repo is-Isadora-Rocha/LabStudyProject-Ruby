@@ -26,6 +26,8 @@ gem "stimulus-rails"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
 
+##########################################################################
+
 # melhora a experiência do usuário em aplicativos web - tornano as transições entre página mais rápidas
 # carregando apenas o conteúdo que muda em vez de carregar a página inteira 
 gem "turbolinks"
@@ -46,6 +48,8 @@ gem "ruby-oci8"
 
 # é uma extensão do ActiveRecord, que é a camada de abstração de banco de dados do Ruby on Rails
 gem "activerecord-oracle_enhanced-adapter"
+
+##########################################################################
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
